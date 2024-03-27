@@ -1,0 +1,15 @@
+:root{
+    --color1:rgb(0, 215, 244);
+    --color2:rgb(255, 223, 1);
+    --color3:rgb(253, 123, 3);
+    --color4:rgb(255, 0, 20);
+    --color5:rgb(31,31,31);
+    --color6:rgb(255,255,255);
+    --color7:rgb(190,190,190);
+    --color8:rgb(100,100,100);
+    --color9:#470C6C;
+}
+
+.navbar {
+    background-color: var(--color9);
+}
